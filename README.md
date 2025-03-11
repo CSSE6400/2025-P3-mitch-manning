@@ -10,4 +10,7 @@ including how to run it.
 
 There are [resources](https://www.makeareadme.com) available to help you write a good README file.
 
+---
 
+# Setup docker user group
+https://docs.docker.com/engine/install/linux-postinstall/
